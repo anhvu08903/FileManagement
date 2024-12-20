@@ -23,12 +23,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AddStudentActivity"
-            android:theme="@style/Theme.AppCompat">
-        </activity>
-        <activity android:name=".EditStudentActivity"
-            android:theme="@style/Theme.AppCompat">
-        </activity>
     </application>
 
 </manifest>
